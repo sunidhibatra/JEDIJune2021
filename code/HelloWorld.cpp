@@ -12,5 +12,5 @@ int main()
 void helloWorld()
 {
 	cout<<"HELLO WORLD!!";
-	cout<<"Awsome";
+	cout<<"Awesome";
 }
